@@ -1,9 +1,4 @@
 <div align="center">
-  
-  <!-- dynamic typing effect 动态打字效果 -->
-  <div align="center">
-      <strong><p>发现你啦！</p><strong>
-  </div>
 
   <!-- knock code pictures 敲代码的图片 -->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
